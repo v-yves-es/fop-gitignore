@@ -1,5 +1,5 @@
 # fop-gitignore
-.gitignore file voor het vak FoP2 (Intellij)
+.gitignore file voor het vak Advanced Programming (Intellij)
 
 Voeg deze .gitignore file toe aan ieder project die je wil pushen naar een remote repository.
 Dit zorgt ervoor dat bepaalde bestanden en mappen niet worden mee opgenomen door git.
